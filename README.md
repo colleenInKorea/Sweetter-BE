@@ -110,12 +110,7 @@ https://www.figma.com/file/VriPcY0YzZOyyGNpAktytP/Twitter-Hifi-prototype?node-id
 ### ☑ 리트윗 기능 - 준형
 
 > 리트윗 기능 구현
-> 
-
-### ☑ 검색 기능
-
-> 검색 기능 구현 - 현동
-> 
+>  
 
 ## BE적용 기술
 
